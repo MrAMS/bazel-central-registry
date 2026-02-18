@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-pa6lHTwTglXqtVRV0vb5o3Jyx/iAoLQVm14I0NagrSQ=",
+    "strip_prefix": "bazel_rules_chisel-0.2.0",
+    "url": "https://github.com/MrAMS/bazel_rules_chisel/releases/download/v0.2.0/bazel_rules_chisel-0.2.0.tar.gz"
+}
